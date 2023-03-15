@@ -1,7 +1,7 @@
 <script lang="ts">
   import type { IComic } from "../interfaces/Comic";
 
-  const EMAIL = "a.abdelhady@innopolis.university";
+  const EMAIL = "s.khamrakulov@innopolis.university";
   const ID_BASE_URL = "https://fwd.innopolis.app/api/hw2";
   const COMIC_BASE_URL = "https://getxkcd.vercel.app/api/comic";
 
